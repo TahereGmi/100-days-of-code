@@ -8,6 +8,12 @@
 
 **Link to work:** [Night Sky](https://codepen.io/taheregmi/pen/zYEKbOo)
 
+### Day 2: December 12, 2021
+
+**Today's Progress**: Continued tha day befor, I made a sunny sky used CSS animation.
+
+**Link to work:** [Hello Sunshine](https://codepen.io/taheregmi/pen/bGoBRzN)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
