@@ -2,7 +2,7 @@
 
 ### Day 1: December 11, 2021
 
-**Today's Progress**: I made a night sky with shining moon, small clouds and twinkling stars using CSS.
+**Progress**: I made a night sky with shining moon, small clouds and twinkling stars using CSS.
 
 **Thoughts:** I had not worked with CSS animations for a long time. But I really enjoyed! :)
 
@@ -10,9 +10,17 @@
 
 ### Day 2: December 12, 2021
 
-**Today's Progress**: Continued tha day befor, I made a sunny sky used CSS animation.
+**Progress**: Continued tha day befor, I made a sunny sky used CSS animation.
 
 **Link to work:** [Hello Sunshine](https://codepen.io/taheregmi/pen/bGoBRzN)
+
+### Day 3: December 13, 2021
+
+**Progress**: I did some codewars challenges and I passed 8 kyu.
+
+**Thoughts:** So excited! I forgot the time :))
+
+**Link to work:** [Code Wars 8 kyu](https://www.codewars.com/users/TahereGmi)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
