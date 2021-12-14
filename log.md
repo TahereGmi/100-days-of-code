@@ -10,7 +10,7 @@
 
 ### Day 2: December 12, 2021
 
-**Progress**: Continued tha day befor, I made a sunny sky used CSS animation.
+**Progress**: Continued tha day before, I made a sunny sky used CSS animation.
 
 **Link to work:** [Hello Sunshine](https://codepen.io/taheregmi/pen/bGoBRzN)
 
@@ -21,6 +21,14 @@
 **Thoughts:** So excited! I forgot the time :))
 
 **Link to work:** [Code Wars 8 kyu](https://www.codewars.com/users/TahereGmi)
+
+### Day 4: December 14, 2021
+
+**Progress**: Continue codewars challenges.
+
+**Thoughts:** After 10 hours coding in my job!
+
+**Link to work:** [Code Wars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
