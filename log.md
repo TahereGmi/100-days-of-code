@@ -30,6 +30,12 @@
 
 **Link to work:** [Code Wars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
 
+### Day 5: December 15, 2021
+
+**Progress**: Continue codewars challenges again.
+
+**Link to work:** [Code Wars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
