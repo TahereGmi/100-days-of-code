@@ -44,6 +44,18 @@
 
 **Link to work:** [Ranked up to 6 kyu](https://www.codewars.com/users/TahereGmi)
 
+### Day 7: December 17, 2021
+
+**Progress**: I have been planning to have a real project using react and typeScript for a long time. Well, now is the time! The project will be very simple at first.
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
+### Day 8: December 18, 2021
+
+**Progress**: Today I had some R&D with typeScript.
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
