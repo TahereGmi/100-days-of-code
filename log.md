@@ -42,7 +42,7 @@
 
 **Thoughts:** So funny! I really enjoyed. :)
 
-**Link to work:** [Ranked up to 6 kyu! :)](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [Ranked up to 6 kyu! _\__](https://www.codewars.com/users/TahereGmi)
 
 ### Day 7: December 17, 2021
 
