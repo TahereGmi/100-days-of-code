@@ -20,7 +20,7 @@
 
 **Thoughts:** So excited! I forgot the time :))
 
-**Link to work:** [Code Wars 8 kyu](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [CodeWars 8 kyu](https://www.codewars.com/users/TahereGmi)
 
 ### Day 4: December 14, 2021
 
@@ -28,13 +28,13 @@
 
 **Thoughts:** After 10 hours coding in my job!
 
-**Link to work:** [Code Wars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [CodeWars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
 
 ### Day 5: December 15, 2021
 
 **Progress**: Continue codewars challenges again.
 
-**Link to work:** [Code Wars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [CodeWars 7 kyu in progress](https://www.codewars.com/users/TahereGmi)
 
 ### Day 6: December 16, 2021
 
@@ -42,7 +42,7 @@
 
 **Thoughts:** So funny! I really enjoyed. :)
 
-**Link to work:** [Ranked up to 6 kyu](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [Ranked up to 6 kyu! :)](https://www.codewars.com/users/TahereGmi)
 
 ### Day 7: December 17, 2021
 
@@ -55,6 +55,24 @@
 **Progress**: Today I had some R&D with typeScript.
 
 **Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
+### Day 9: December 19, 2021
+
+**Progress**: I added context and react-query.
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
+### Day 10: December 20, 2021
+
+**Progress**: I did a new challenge in codewars.
+
+**Link to work:** [CodeWars 6 kyu in progress](https://www.codewars.com/users/TahereGmi)
+
+### Day 11: December 21, 2021
+
+**Progress**: Add types and some actions (addTask and editTask).
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://www.codewars.com/users/TahereGmi)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
