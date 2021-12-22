@@ -42,7 +42,7 @@
 
 **Thoughts:** So funny! I really enjoyed. :)
 
-**Link to work:** [Ranked up to 6 kyu! _\__](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [Ranked up to 6 kyu! \_\_\_](https://www.codewars.com/users/TahereGmi)
 
 ### Day 7: December 17, 2021
 
@@ -73,6 +73,14 @@
 **Progress**: Add types and some actions (addTask and editTask).
 
 **Link to work:** [React-TypeScript Simple Task Manager](https://www.codewars.com/users/TahereGmi)
+
+### Day 12: December 22, 2021
+
+**Progress**: Another Day with codewars code challenges.
+
+**Thoughts:** I felt tired today, I need serious and important decisions.
+
+**Link to work:** [CodeWars 6 kyu in progress](https://www.codewars.com/users/TahereGmi)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
