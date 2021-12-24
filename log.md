@@ -82,6 +82,22 @@
 
 **Link to work:** [CodeWars 6 kyu in progress](https://www.codewars.com/users/TahereGmi)
 
+### Day 13: December 23, 2021
+
+**Progress**: I had problem with running my react-typescript project.
+
+**Thoughts:** Today was not my day :(
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
+### Day 14: December 24, 2021
+
+**Progress**: Finally I could find what was the problem with running the project. Also I added pageLayout and simple addingTaskform.
+
+**Thoughts:** When I'm tried, the efficiency of my mind goes down. Maybe it's common, but some times we forgot about it.
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
