@@ -42,7 +42,7 @@
 
 **Thoughts:** So funny! I really enjoyed. :)
 
-**Link to work:** [Ranked up to 6 kyu! \_\_\_](https://www.codewars.com/users/TahereGmi)
+**Link to work:** [Ranked up to 6 kyu! :)](https://www.codewars.com/users/TahereGmi)
 
 ### Day 7: December 17, 2021
 
@@ -97,6 +97,26 @@
 **Thoughts:** When I'm tried, the efficiency of my mind goes down. Maybe it's common, but some times we forgot about it.
 
 **Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
+### Day 15: December 25, 2021
+
+**Progress**: Debug AddingTaskForm.
+
+**Link to work:** [React-TypeScript Simple Task Manager](https://github.com/TahereGmi/react-typescript)
+
+### Day 16: December 26, 2021
+
+**Progress**: New challenge in codewars. It was _Build a pile of Cubes_ in 6 kyu.
+
+**Link to work:** [Build a pile of Cubes in codewars](https://www.codewars.com/users/TahereGmi/completed)
+
+### Day 17: December 27, 2021
+
+**Progress**: Another challenge in codewars. It was _Best travel_ in 5 kyu, and in progress. It's about recursion.
+
+**Thoughts:** I think it was nessecary to learn recursive functions, and in this challenge I found the chance to get involved.
+
+**Link to work:** [Best travel in codewars](https://www.codewars.com/users/TahereGmi/completed)
 
 <!-- ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
